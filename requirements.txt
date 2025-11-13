@@ -1,0 +1,12 @@
+# Cryptography library for AES-128 encryption
+pycryptodome>=3.19.0
+
+# Azure Storage and Key Vault
+azure-storage-blob>=12.19.0
+azure-keyvault-secrets>=4.7.0
+azure-identity>=1.15.0
+
+# Azure IoT Hub
+azure-iot-device>=2.12.0
+azure-iot-hub>=2.6.0
+azure-eventhub>=5.11.0

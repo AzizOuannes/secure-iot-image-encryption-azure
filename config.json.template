@@ -1,0 +1,15 @@
+{
+  "azure": {
+    "storage_connection_string": "YOUR_AZURE_STORAGE_CONNECTION_STRING_HERE",
+    "container_name": "encrypted-images",
+    "key_vault_url": "https://YOUR-KEYVAULT-NAME.vault.azure.net/",
+    "iot_hub_connection_string": "YOUR_IOT_HUB_CONNECTION_STRING_HERE",
+    "device_connection_string": "YOUR_DEVICE_CONNECTION_STRING_HERE"
+  },
+  "local": {
+    "input_image": "image.jpg",
+    "encrypted_output": "encrypted_image.bin",
+    "decrypted_output": "decrypted_image.jpg",
+    "metadata_file": "encryption_metadata.json"
+  }
+}
