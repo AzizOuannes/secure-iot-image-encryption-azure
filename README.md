@@ -102,4 +102,4 @@ python iot_device_simulator.py
 python decrypt_iot_blob.py
 ```
 
-**🎉 Project Complete!** All components tested and working.
+
